@@ -12,3 +12,5 @@ Deployment can only be happen on web server
 
 ## How to Contribute
 You need to be a part of Development team
+
+##Delivery
