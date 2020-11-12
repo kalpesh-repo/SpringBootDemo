@@ -14,3 +14,5 @@ Deployment can only be happen on web server
 You need to be a part of Development team
 
 ##Delivery
+
+##UAT
