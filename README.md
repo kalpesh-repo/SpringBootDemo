@@ -16,3 +16,4 @@ You need to be a part of Development team
 ##Delivery
 
 ##UAT
+In this phase user will be testing at user's end
