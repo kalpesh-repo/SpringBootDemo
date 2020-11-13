@@ -1,5 +1,6 @@
 # Starter Web Project
 This is a simple example of Simple Starter Project using GIT Repository
+Adding comment for Stashing purpose
 
 ## Introduction
 As stated, this is just introduction of Starter We Project
