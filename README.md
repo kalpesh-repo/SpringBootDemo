@@ -14,6 +14,7 @@ Deployment can only be happen on web server
 You need to be a part of Development team
 
 ##Delivery
+This is the phase where we delivered the product to the client
 
 ##UAT
 In this phase user will be testing at user's end
